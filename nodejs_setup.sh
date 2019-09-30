@@ -1,3 +1,4 @@
+#!/bin/bash
 VERSION=v10.16.3
 DISTRO=linux-x64
 sudo mkdir -p /usr/local/lib/nodejs

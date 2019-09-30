@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 #linux
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshenv
